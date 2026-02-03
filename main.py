@@ -1,4 +1,4 @@
-class conta_bancaria:
+class Damian:
     def __init__(self, N_cliente,Nu_conta,T_interese,saldo):
         self.__N_cliente = N_cliente
         self.__Nu_conta  = Nu_conta
@@ -57,8 +57,8 @@ class conta_bancaria:
         print(f"saldo: {self.__saldo}")
         print("")
 
-conta = conta_bancaria("alan",45,3,5890)
-contaDestino = conta_bancaria("aitor",45,6,100)
+conta = Damian("alan",45,3,5890)
+contaDestino = Damian("aitor",45,6,100)
 conta.cuenta()
 contaDestino.cuenta()
 conta.SUM_ingreso(10)
