@@ -1,4 +1,4 @@
-class conta_bancaria:
+class Damian:
     def __init__(self, N_cliente,Nu_conta,T_interese,saldo):
         self.__N_cliente = N_cliente
         self.__Nu_conta  = Nu_conta
