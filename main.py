@@ -58,7 +58,7 @@ class conta_bancaria:
         print("")
 
 conta = conta_bancaria("alan",45,3,5890)
-contaDestino = conta_bancaria("aitor",45,6,100)
+contaDestino = conta_bancaria("aitor",70,10,300)
 conta.cuenta()
 contaDestino.cuenta()
 conta.SUM_ingreso(10)
