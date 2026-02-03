@@ -5,4 +5,4 @@
 6. Se mezcla rama con el pull
 7. Cerramos issue
 8. Fetch de nuevo y ya tenemos todo
-9. Intercambiamos los roles e hicismos lo mismo
+9. Intercambiamos los roles e hicismos lo mismo 
